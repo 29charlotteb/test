@@ -4,3 +4,6 @@ Edit #1 - Bella
 
 This is a new line 
 Second new line
+
+Message: I just pulled the file with your new edits, here is mine
+- Charlotte
